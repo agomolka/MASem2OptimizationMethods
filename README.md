@@ -68,6 +68,7 @@ In contrast, Hyperopt demonstrated a more efficient approach to hyperparameter o
 Another notable difference between the two algorithms lies in their ability to utilize information from previous iterations. GridSearch does not incorporate any information from previous experiments and treats each combination of hyperparameters independently. In contrast, Hyperopt employs Bayesian optimization, which updates the probability distribution over the hyperparameter space based on previous evaluations. This enables Hyperopt to make more informed decisions about which hyperparameters to explore next, leading to faster convergence and better overall performance.
 
 ![alt text](https://github.com/agomolka/MASem2OptimizationMethods/blob/master/img/learning_rate_vs_n_estim.png?raw=true)
+<p align="center"><img src="[drawing.jpg](https://github.com/agomolka/MASem2OptimizationMethods/blob/master/img/learning_rate_vs_n_estim.png)" alt="drawing" width="200"/></p>
 
 In terms of interpretability, GridSearch offers a straightforward and easily understandable structure. It allows researchers and practitioners to systematically explore the entire hyperparameter space, providing a clear understanding of the search process. On the other hand, Hyperopt's implementation can be more complex and requires a deeper understanding of Bayesian optimization and decision trees. However, the knowledge gained from understanding Hyperopt's workings extends beyond hyperparameter tuning and provides valuable insights into the broader field of machine learning.
 
