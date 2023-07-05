@@ -1,8 +1,10 @@
-# MASem2OptimizationMethods
+## Analysis and comparison of hyperparameter selection strategies for a classification problem: 
+## a case study of 𝐁𝐀𝐘𝐄𝐒𝐈𝐀𝐍 optimization. 
+#### MASem2OptimizationMethods
 Project with non-classical Optimization Methods
 
-Data science and machine learning are vital in today's world of rapidly increasing data. Hyperparameter tuning, crucial for precise model calibration, can be approached through techniques like Grid Search and Bayesian Optimization. This analysis examines their effectiveness, efficiency, and properties in machine learning. Findings can benefit practitioners, advance understanding, and inspire new strategies in this field.
-
+# Data science and machine learning are vital in today's world of rapidly increasing data. Hyperparameter tuning, crucial for precise model calibration, can # be approached through techniques like Grid Search and Bayesian Optimization. This analysis examines their effectiveness, efficiency, and properties in # machine learning. Findings can benefit practitioners, advance understanding, and inspire new strategies in this field.
+ 
 ![alt text](https://github.com/agomolka/MASem2OptimizationMethods/blob/master/img/hyper_tunning_graph.jpg?raw=true)
 
 In the previous chapter, we introduced the general problem of hyperparameter tuning in the context of machine learning and emphasized its importance in achieving high-quality predictive models. In this chapter, we will focus on two popular methods of hyperparameter optimization - Bayesian Optimization and Grid Search. We chose to compare these two methods for several reasons. Firstly, Grid Search is one of the most classical and widely used techniques, popular due to its simplicity. However, it has limitations such as high computational complexity and the inability to leverage information from previous iterations, which can be inefficient, especially for large hyperparameter spaces. On the other hand, Bayesian Optimization is an advanced method that uses Bayesian statistics to intelligently explore the hyperparameter space, often leading to better solutions with fewer trials.
