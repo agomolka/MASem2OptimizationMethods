@@ -1,5 +1,4 @@
-# Analysis and comparison of *hyperparameter selection* strategies for a classification problem: 
-# a case study of 𝐁𝐀𝐘𝐄𝐒𝐈𝐀𝐍 optimization. 
+# Analysis and comparison of *hyperparameter selection* strategies for a classification problem: </br> a case study of 𝐁𝐀𝐘𝐄𝐒𝐈𝐀𝐍 optimization. 
 #### MASem2OptimizationMethods
 ### Project with non-classical Optimization Methods
 
