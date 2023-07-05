@@ -1,9 +1,10 @@
-## <span style="color:blue"> Analysis and comparison of *hyperparameter selection* strategies for a classification problem: </span>
-## a case study of 𝐁𝐀𝐘𝐄𝐒𝐈𝐀𝐍 optimization. 
+# Analysis and comparison of *hyperparameter selection* strategies for a classification problem: 
+# a case study of 𝐁𝐀𝐘𝐄𝐒𝐈𝐀𝐍 optimization. 
 #### MASem2OptimizationMethods
-Project with non-classical Optimization Methods
+### Project with non-classical Optimization Methods
 
-# Data science and machine learning are vital in today's world of rapidly increasing data. Hyperparameter tuning, crucial for precise model calibration, can  be approached through techniques like Grid Search and Bayesian Optimization. This analysis examines their effectiveness, efficiency, and properties in machine learning. Findings can benefit practitioners, advance understanding, and inspire new strategies in this field.
+
+Data science and machine learning are vital in today's world of rapidly increasing data. <span style="color:blue">Hyperparameter tuning</span> , crucial for precise model calibration, can  be approached through techniques like Grid Search and Bayesian Optimization. This analysis examines their effectiveness, efficiency, and properties in machine learning. Findings can benefit practitioners, advance understanding, and inspire new strategies in this field.
  
 ![alt text](https://github.com/agomolka/MASem2OptimizationMethods/blob/master/img/hyper_tunning_graph.jpg?raw=true)
 
